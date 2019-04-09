@@ -43,5 +43,5 @@ feature_row:
 {% include feature_row id="feature_row2" type="left" %}
 
 <script>
-window.location.href = "https://www.runoob.com;
+window.location.href = "https://neutrino3316.github.io";
 </script>
